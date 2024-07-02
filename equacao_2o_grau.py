@@ -1,7 +1,6 @@
 import keyboard
 import math
 from os import system
-from sys import exit
 
 clear_terminal = system('cls')
 
